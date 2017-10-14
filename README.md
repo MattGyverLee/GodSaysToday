@@ -9,8 +9,12 @@ This project is a collection of resources centred on helping users create lectio
 ### Resources:
 
 - Our Paper
+
 https://github.com/erros84/GodSaysToday/raw/master/Draft%20Paper%20-%20WhatDidGodSay.pdf
+
 - Our Presentation
+
+https://github.com/erros84/GodSaysToday/raw/master/Presentation/What%20does%20God%20Say%20this%20Week%20-%20Presentation.pdf
 
 ### Bible Modules
 
