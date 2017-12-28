@@ -10,7 +10,7 @@ This project is a collection of resources centred on helping users create lectio
 
 - Our Paper
 
-https://github.com/erros84/GodSaysToday/raw/master/Draft%20Paper%20-%20WhatDidGodSay.pdf
+https://github.com/erros84/GodSaysToday/raw/master/Paper%20-%20WhatDidGodSay.pdf
 
 - Our Presentation
 
